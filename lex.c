@@ -29,7 +29,7 @@ int lex()
             for( ; *current ; ++current) {
                 yytext = current;
                 yyleng = 1;
-                switch (current) {
+                switch (*current) {
                     case EOF: return EOI;
                     case ';': return SEMI;
                     case '+': return PLUS;

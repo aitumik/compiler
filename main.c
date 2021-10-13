@@ -1,7 +1,8 @@
-#include <iostream>
+#include <stdio.h>
 #include "lex.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    printf("Hello World\n");
+    // do something buana
     return 0;
 }

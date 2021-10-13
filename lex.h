@@ -6,6 +6,6 @@
 #define RP              5
 #define NUM_OR_ID       6
 
-extern char **yytext;
+extern char *yytext;
 extern int yyleng;
 extern int yylineno;
