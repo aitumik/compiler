@@ -1,4 +1,4 @@
-# Building a compiler from scratch in C
+# Building a compiler from scratch in C :heart :heart :heart
 
 ![Compiler Structure](/images/compiler.png)
 
