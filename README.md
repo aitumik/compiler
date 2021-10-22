@@ -1,4 +1,4 @@
-# Building a compiler from scratch in C :love
+# Building a compiler from scratch in C
 
 ![Compiler Structure](/images/compiler.png)
 
